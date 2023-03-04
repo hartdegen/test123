@@ -1,2 +1,0 @@
-some information
-new line
